@@ -1,9 +1,9 @@
 # tensorflow-install-ubuntu
 How to install tensorflow on Ubuntu server
 
-steps to install TensorFlow on an Ubuntu-based server:
+## Steps to install TensorFlow on an Ubuntu-based server: ##
 
-    Open a terminal window and update the package list using the following command:
+Open a terminal window and update the package list using the following command:
 
 ```
 sudo apt update
